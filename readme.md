@@ -9,7 +9,7 @@ Monitor Elastic Stack with Docker
  - Nginx for testing logs
 
 ### Spec Requement
- - incease docker ram at least 4 GB
+ - increase docker ram at least 4 GB
 
 ### Getting Start
  - Run docker
