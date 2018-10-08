@@ -5,6 +5,6 @@ http.host: 0.0.0.0
 xpack.monitoring.elasticsearch.url: https://elasticsearch:9200
 xpack.monitoring.elasticsearch.username: logstash_system
 path.data: /var/lib/logstash
-path.config: /etc/logstash/conf.d
+path.config: /etc/logstash
 path.logs: /var/log/logstash
 # xpack.monitoring.elasticsearch.ssl.ca: /usr/share/logstash/config/certs/ca/ca.crt
